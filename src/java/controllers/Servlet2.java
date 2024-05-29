@@ -38,7 +38,7 @@ public class Servlet2 extends HttpServlet {
                 out.print("<h1>your infomation</h1>");
                 out.print("<h2>your emai:</h2>"+email+"</h2>");
                 out.print("<h2>your password: khong cho xem</h2>");
-                out.print();
+            
             }
         }
     }
